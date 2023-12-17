@@ -37,7 +37,7 @@ $(function () {
       if (i < currentHour) {
         block.classList.remove('present', 'future');
         block.classList.add('past');
-      } else if (i === currentHour) {
+      } else if (i == currentHour) {
         block.classList.remove('past', 'future');
         block.classList.add('present');
       } else {
