@@ -1,5 +1,7 @@
 # Module5-Challenge
 In this repo I'll be creating a daily planner website for the Module 5 challenge
+#Sources
+starter code pulled from: [https://github.com/coding-boot-camp/crispy-octo-meme](https://github.com/coding-boot-camp/crispy-octo-meme)
 # Goals
 #### WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
